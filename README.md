@@ -1,1 +1,1 @@
-# site-denemeleri-1
+# DAHA DEVAM ETMİCEM FAKAT SİZ ÖĞRENİN DİYE ATIYORUM.
