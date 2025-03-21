@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 const productSchema /*Şemanızın adıdır.*/ = new /*Şema oluşması için mongoose.Schema yazarız.*/ mongoose.Schema({
-    /*Çekmek istediğiniz verinin adı ben "name yazdım"*/ 
+    /*Çekmek istediğiniz verinin adı ben "name" yazdım"*/ 
     name:{
         /*Bu adla çekmek istediğiniz veriler*/
         type: String, // Bu alanın veri tipinin "String" (metin) olduğunu belirtir. Yani, bu alana sadece metin değerleri girilebilir.
